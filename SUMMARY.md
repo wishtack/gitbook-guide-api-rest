@@ -37,4 +37,5 @@
   * [JSON-Server](les-outils/json-server.md)
 * [Sécurité des APIs ReST](securite-des-apis-rest/README.md)
   * [Authentification et Session Management](securite-des-apis-rest/authentification-et-session-management.md)
+  * [Autorisation et Gestion des Permissions](securite-des-apis-rest/autorisation-et-gestion-des-permissions.md)
 
