@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Le Guide API Rest par Wishtack](README.md)
 
