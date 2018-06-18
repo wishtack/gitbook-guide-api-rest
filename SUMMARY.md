@@ -23,7 +23,12 @@
   * [Ressource d'Association](bonnes-pratiques/ressource-dassociation.md)
   * [Pourquoi Appliquer ces Bonnes Pratiques](bonnes-pratiques/pourquoi-appliquer-ces-bonnes-pratiques.md)
   * [Avis Subjectif sur H.A.T.E.O.A.S. et le Semantic Web](bonnes-pratiques/avis-subjectif-sur-h.a.t.e.o.a.s.-et-le-semantic-web.md)
-* [Les "Standards" ou Presque](les-standards-ou-presque.md)
+* [Les "Standards" ou Presque](les-standards-ou-presque/README.md)
+  * [JSON API](les-standards-ou-presque/json-api.md)
+  * [H.A.L.](les-standards-ou-presque/h.a.l..md)
+  * [JSON LD](les-standards-ou-presque/json-ld.md)
+  * [Les Autres Initiatives](les-standards-ou-presque/les-autres-initiatives.md)
+  * [So What?](les-standards-ou-presque/so-what.md)
 * [Les Outils](les-outils.md)
 * [Sécurité des APIs ReST](securite-des-apis-rest.md)
 

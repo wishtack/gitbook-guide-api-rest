@@ -1,2 +1,0 @@
-# Les "Standards" ou Presque
-
