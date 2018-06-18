@@ -1,2 +1,0 @@
-# Sécurité des APIs ReST
-
