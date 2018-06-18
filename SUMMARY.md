@@ -39,4 +39,5 @@
   * [Authentification et Session Management](securite-des-apis-rest/authentification-et-session-management.md)
   * [Autorisation et Gestion des Permissions](securite-des-apis-rest/autorisation-et-gestion-des-permissions.md)
   * [Validation : Canonicalization, Escaping & Sanitization](securite-des-apis-rest/validation-canonicalization-escaping-et-sanitization.md)
+  * [Cookies are EVIL](securite-des-apis-rest/cookies-are-evil.md)
 
