@@ -1,5 +1,7 @@
 # Le Guide API Rest par Wishtack
 
+![Stop Smurfing APIs](.gitbook/assets/smurf-api.png)
+
 ## Copyright {#copyright}
 
 Ce livre est l'oeuvre et la propriété de la société Wishtack.

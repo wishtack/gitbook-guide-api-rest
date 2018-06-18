@@ -8,6 +8,7 @@
   * [Les 5 règles et ½ de l’API ReST](api-rest/les-5-regles-et-demi-de-l-api-rest.md)
   * [ReST over HTTP](api-rest/rest-over-http.md)
   * [HTTP & CRUD](api-rest/http-et-crud.md)
+  * [Le Modèle de Maturité de Richardson](api-rest/le-modele-de-maturite-de-richardson.md)
 * [Bonnes Pratiques](bonnes-pratiques.md)
 * [Les "Standards" ou Presque](les-standards-ou-presque.md)
 * [Les Outils](les-outils.md)
