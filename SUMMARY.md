@@ -54,4 +54,5 @@
     * [OAuth 2 Client Credentials](securite-des-apis-rest/oauth-2/oauth-2-client-credentials.md)
     * [OAuth 2 Registration](securite-des-apis-rest/oauth-2/oauth-2-registration.md)
     * [OAuth 2 Risques & Recommandations](securite-des-apis-rest/oauth-2/oauth-2-risques-et-recommandations.md)
+    * [OAuth 2 Substitution Attack](securite-des-apis-rest/oauth-2/oauth-2-substitution-attack.md)
 
