@@ -40,4 +40,5 @@
   * [Autorisation et Gestion des Permissions](securite-des-apis-rest/autorisation-et-gestion-des-permissions.md)
   * [Validation : Canonicalization, Escaping & Sanitization](securite-des-apis-rest/validation-canonicalization-escaping-et-sanitization.md)
   * [Cookies are EVIL](securite-des-apis-rest/cookies-are-evil.md)
+  * [C.O.R.S.](securite-des-apis-rest/c.o.r.s..md)
 
