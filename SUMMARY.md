@@ -41,4 +41,8 @@
   * [Validation : Canonicalization, Escaping & Sanitization](securite-des-apis-rest/validation-canonicalization-escaping-et-sanitization.md)
   * [Cookies are EVIL](securite-des-apis-rest/cookies-are-evil.md)
   * [C.O.R.S.](securite-des-apis-rest/c.o.r.s..md)
+  * [C.S.R.F.](securite-des-apis-rest/c.s.r.f..md)
+  * [C.S.R.F. & Media Type](securite-des-apis-rest/c.s.r.f.-and-media-type.md)
+  * [C.S.R.F. "Mitigation"](securite-des-apis-rest/c.s.r.f.-mitigation.md)
+  * [C.S.R.F. & "Resource Linking"](securite-des-apis-rest/c.s.r.f.-and-resource-linking.md)
 

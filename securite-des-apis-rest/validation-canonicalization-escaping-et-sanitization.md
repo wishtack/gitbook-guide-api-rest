@@ -1,8 +1,10 @@
 # Validation : Canonicalization, Escaping & Sanitization
 
-Toutes les propriétés échangées avec l’API ReST doivent être validées par l’API.
+Toutes les propriétés échangées avec l’API ReST doivent être **validées par l’API**.
 
 La validation doit également être implémentée côté client pour éviter les aller-retours inutiles.
+
+![La validation Clien-Side n&apos;est pas suffisante](../.gitbook/assets/client-side-validation.jpeg)
 
 ## Canonicalization
 
