@@ -47,4 +47,7 @@
   * [C.S.R.F. & "Resource Linking"](securite-des-apis-rest/c.s.r.f.-and-resource-linking.md)
   * [OAuth 2](securite-des-apis-rest/oauth-2/README.md)
     * [OAuth 2 Roles](securite-des-apis-rest/oauth-2/oauth-2-roles.md)
+    * [OAuth 2 Abstract Flow](securite-des-apis-rest/oauth-2/oauth-2-abstract-flow.md)
+    * [OAuth 2 Authorization Code Flow](securite-des-apis-rest/oauth-2/oauth-2-authorization-code-flow.md)
+    * [OAuth 2 Implicit Flow](securite-des-apis-rest/oauth-2/oauth-2-implicit-flow.md)
 
