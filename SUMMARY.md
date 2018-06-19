@@ -50,4 +50,5 @@
     * [OAuth 2 Abstract Flow](securite-des-apis-rest/oauth-2/oauth-2-abstract-flow.md)
     * [OAuth 2 Authorization Code Flow](securite-des-apis-rest/oauth-2/oauth-2-authorization-code-flow.md)
     * [OAuth 2 Implicit Flow](securite-des-apis-rest/oauth-2/oauth-2-implicit-flow.md)
+    * [OAuth 2 Resource Owner Password Credentials Flow](securite-des-apis-rest/oauth-2/oauth-2-resource-owner-password-credentials-flow.md)
 
