@@ -45,4 +45,6 @@
   * [C.S.R.F. & Media Type](securite-des-apis-rest/c.s.r.f.-and-media-type.md)
   * [C.S.R.F. "Mitigation"](securite-des-apis-rest/c.s.r.f.-mitigation.md)
   * [C.S.R.F. & "Resource Linking"](securite-des-apis-rest/c.s.r.f.-and-resource-linking.md)
+  * [OAuth 2](securite-des-apis-rest/oauth-2/README.md)
+    * [OAuth 2 Roles](securite-des-apis-rest/oauth-2/oauth-2-roles.md)
 
