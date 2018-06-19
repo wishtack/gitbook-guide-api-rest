@@ -65,4 +65,9 @@
     * [Utilisation de JWT pour l’Authentification](securite-des-apis-rest/j.w.t./utilisation-de-jwt-pour-lauthentification.md)
     * [JWT, Authentification, Sessions et Risques Sécurité](securite-des-apis-rest/j.w.t./jwt-authentification-sessions-et-risques-securite.md)
     * [Recommandations JWT](securite-des-apis-rest/j.w.t./recommandations-jwt.md)
+  * [OpenID Connect](securite-des-apis-rest/openid-connect/README.md)
+    * [Terminologie](securite-des-apis-rest/openid-connect/terminologie.md)
+    * [Quoi de Neuf ?](securite-des-apis-rest/openid-connect/quoi-de-neuf.md)
+    * [OpenID Connect Flows](securite-des-apis-rest/openid-connect/openid-connect-flows.md)
+    * [Que Faire ?](securite-des-apis-rest/openid-connect/que-faire.md)
 
