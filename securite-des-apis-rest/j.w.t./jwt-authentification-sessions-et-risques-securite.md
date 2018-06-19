@@ -27,7 +27,7 @@ Que se passe-t-il en cas d’usurpation d’une clé privée TLS ?
 * L’attaquant ne pourra impacter généralement qu’une partie géographique donnée et uniquement les utilisateurs connectés pendant la durée de l’attaque. 
 * Dès détection, il est possible de révoquer rapidement le certificat associé et grâce à des protocoles tels que l’OCSP, les clients refuseront ce certificat. [https://tools.ietf.org/html/rfc6960](https://tools.ietf.org/html/rfc6960)
 
-![T.L.S. Security](../../../.gitbook/assets/tls-security.png)
+![T.L.S. Security](../../.gitbook/assets/tls-security.png)
 
 ## **Risque d’usurpation des clés privées JWT**
 
@@ -46,7 +46,7 @@ La clé privée peut être dévoilée de différentes façons :
 
 Si l’attaquant récupère la clé privée, il peut simplement forger des tokens JWT avec des **claims** arbitraires. Il peut alors récupérer les données de tous les utilisateurs dont l’authentification repose sur JWT.
 
-![J.W.T. Security](../../../.gitbook/assets/jwt-security.png)
+![J.W.T. Security](../../.gitbook/assets/jwt-security.png)
 
 ## **`none` alg**
 
