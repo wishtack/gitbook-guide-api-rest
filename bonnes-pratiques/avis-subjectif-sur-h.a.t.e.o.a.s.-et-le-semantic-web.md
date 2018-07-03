@@ -9,10 +9,10 @@ C’est tout beau…
 Supposons que nous disposions des objets et méthodes suivantes :
 
 ```javascript
-/* GET https://v1.api.wishtack.com/users/SOME_USER_ID */
+/* GET https://api-v1.wishtack.com/users/SOME_USER_ID */
 userStore.getUser({userId: 'SOME_USER_ID'});
 
-/* GET https://v1.api.wishtack.com/users/SOME_USER_ID/wishes */
+/* GET https://api-v1.wishtack.com/users/SOME_USER_ID/wishes */
 wishStore.getWishList({userId: 'SOME_USER_ID'});
 ```
 
