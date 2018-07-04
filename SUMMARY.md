@@ -70,4 +70,5 @@
     * [Quoi de Neuf ?](securite-des-apis-rest/openid-connect/quoi-de-neuf.md)
     * [OpenID Connect Flows](securite-des-apis-rest/openid-connect/openid-connect-flows.md)
     * [Que Faire ?](securite-des-apis-rest/openid-connect/que-faire.md)
+* [Quelques Liens](quelques-liens.md)
 
