@@ -44,7 +44,7 @@ On y trouve les propositions suivantes :
 
 Après la mise en place du "header" `Access-Control-Allow-Origin: *`, la requête émise depuis l’ "origin" [`https://attacker.com`](https://attacker.com/) vers  [`https://target.com`](https://target.com/) ne contient pas de cookies.
 
-Il faut activer l’option `withCredentials` de l’objet XHR ou de la fonction `fetch`.
+Il faut activer l’option `withCredentials` de l’objet XHR ou de la fonction `fetch` avec le paramètre `credentials: 'include'`.
 
 La **requête est alors envoyée avec les cookies** mais encore une fois les spécifications C.O.R.S. sont rigoureuses et **il n’est pas possible de récupérer le contenu de la réponse** si le "header" `Access-Control-Allow-Origin` vaut `*`.
 
