@@ -1,2 +1,0 @@
-# Bonnes Pratiques
-
