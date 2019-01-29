@@ -37,6 +37,7 @@
   * [JSON-Server](les-outils/json-server.md)
   * [Pact](les-outils/pact.md)
 * [Sécurité des APIs ReST](securite-des-apis-rest/README.md)
+  * [OWASP Top 10](securite-des-apis-rest/owasp-top-10.md)
   * [Authentification et Session Management](securite-des-apis-rest/authentification-et-session-management.md)
   * [Autorisation et Gestion des Permissions](securite-des-apis-rest/autorisation-et-gestion-des-permissions.md)
   * [Validation : Canonicalization, Escaping & Sanitization](securite-des-apis-rest/validation-canonicalization-escaping-et-sanitization.md)
