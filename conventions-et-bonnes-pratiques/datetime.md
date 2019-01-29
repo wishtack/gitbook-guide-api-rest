@@ -2,7 +2,7 @@
 
 Comment échanger les dates et heures avec les APIs ?
 
-Nous n’utiliserons pas le terme "timestamp" afin éviter les conflits avec le "unix timestamp".
+Nous n’utiliserons pas le terme _timestamp_ afin éviter les conflits avec le _unix timestamp_.
 
 Pas de débat à ce sujet, **ISO 8601** est là depuis 1997 :
 

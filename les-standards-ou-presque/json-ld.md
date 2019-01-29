@@ -8,8 +8,8 @@
 
 ## Cool 👍
 
-* Utilise les "contextes" de [shema.org](https://schema.org/).
-* Possibilité de créer des "contextes" personnalisés.
+* Utilise les contextes de [shema.org](https://schema.org/).
+* Possibilité de créer des contextes personnalisés.
 
 ## Pas Cool 👎
 

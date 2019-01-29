@@ -61,7 +61,7 @@
 
 ## Pas cool 👎
 
-* Comme son nom l’indique, H.A.L. se focalise uniquement sur le "linking". Le périmètre est donc très limité.
-* La propriété "\_embedded"  manque d’intérêt et peut provoquer des conflits entre les propriétés de la ressource et les propriétés "\_embedded".
+* Comme son nom l’indique, H.A.L. se focalise uniquement sur le _linking_. Le périmètre est donc très limité.
+* La propriété `_embedded`  manque d’intérêt et peut provoquer des conflits entre les propriétés de la ressource et les propriétés `_embedded`.
 * De nombreuses implémentations mais la plupart ne sont plus maintenues depuis des mois voire des années.
 

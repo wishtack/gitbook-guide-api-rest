@@ -68,5 +68,5 @@ Hypermedia est l’une des principales règles de la thèse de Fielding.
 
 L’idée est de retrouver dans les API ReST la même logique Hypermedia qu’en HTML par exemple. Aujourd’hui, cela se résume principalement par la présence de liens dans les ressources permettant de définir la relation avec d’autres ressources.
 
-L’API ReST devient alors "**discoverable**".
+L’API ReST devient alors _**discoverable**_.
 

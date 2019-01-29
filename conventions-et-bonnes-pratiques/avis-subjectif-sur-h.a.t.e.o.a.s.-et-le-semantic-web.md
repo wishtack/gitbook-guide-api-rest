@@ -51,9 +51,9 @@ Que faire en cas d’incohérence ?
 * Comment basculer automatiquement d’une API principale à une API de backup sans “parser” et reconstruire l’URL ?
 * Peut-on faire **confiance à une API au point d’utiliser naïvement les URLs qu’elle nous transmet** ?
 * Il nous faudrait idéalement les informations suivantes :
-  * "id" de la ressource.
-  * "type" de la ressource ou encore mieux un référentiel de type. [I.A.N.A.](https://www.iana.org/) ?
-  * Mapping "type" =&gt; informations sur la construction de l’URL _\("Base URL"  et "Path"\)_.
+  * `id` de la ressource.
+  * `type` de la ressource ou encore mieux un référentiel de type. [I.A.N.A.](https://www.iana.org/) ?
+  * Mapping `type` =&gt; informations sur la construction de l’URL _\(Base URL  et Path\)_.
   * Affordances : que puis-je faire avec la ressource ? A quoi correspond-elle ?
 
 C’est tout simplement l’utopie _\(ou le futur ?\)_ du Web Sémantique. **Cela nécessite des standards de canonicalisation des données et une adoption importante.**

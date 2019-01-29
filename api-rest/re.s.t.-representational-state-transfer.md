@@ -2,7 +2,7 @@
 
 ## **Ce qu’une API ReST n’est pas**
 
-* ReST n’est pas un standard mais un "**style d’architecture**".
+* ReST n’est pas un standard mais un **style d’architecture**.
 * ReST ne concerne pas uniquement les APIs distantes ou HTTP. Une librairie peut être ReSTful.
 
 ## **Roy Thomas FIELDING : Papa du ReST**

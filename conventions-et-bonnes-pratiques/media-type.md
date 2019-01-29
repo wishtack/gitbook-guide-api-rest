@@ -1,10 +1,10 @@
 # Media Type
 
-Le Media Type habituel défini avec le header `Content-Type` est `application/json`.
+Le _Media Type_ habituel défini avec le header `Content-Type` est `application/json`.
 
-Il est courant de définir un Media Type spécifique pour une API ou éventuellement en fonction du "standard" utilisé. Exemple : `application/vnd.github+json`.
+Il est courant de définir un _Media Type_ spécifique pour une API ou éventuellement en fonction du _standard_ utilisé. Exemple : `application/vnd.github+json`.
 
-Les “media type” de type `application/vnd*` ne sont pas standards et peuvent éventuellement poser des problèmes avec certaines librairies ou connecteurs _\(Ex.: Web Application Firewall\)_.
+Les M_edia Type_ de type `application/vnd*` ne sont pas standards et peuvent éventuellement poser des problèmes avec certaines librairies ou connecteurs _\(Ex.: Web Application Firewall\)_.
 
 Certains s’amusent à retourner un contenu HTML _\(présentation, documentation, démo etc…\)_ lorsque le client ne présente pas le bon Media Type dans le header `Accept`.
 

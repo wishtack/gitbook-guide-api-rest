@@ -16,7 +16,7 @@ Supposons la ressource `/users/123ab/friends` :
 
 {% tabs %}
 {% tab title="🧐" %}
-Comment représenter la "datetime" de création du lien entre les utilisateurs ?
+Comment représenter la _datetime_ de création du lien entre les utilisateurs ?
 {% endtab %}
 
 {% tab title="👍" %}

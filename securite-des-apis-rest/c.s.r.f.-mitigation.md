@@ -1,4 +1,4 @@
-# C.S.R.F. "Mitigation"
+# C.S.R.F. Mitigation
 
 En attendant l’abandon des "credentials" de type "cookie", "basic auth" et certificat client, une solution de mitigation des attaques de type C.S.R.F. est de positionner un "cookie" _\(non http-only\)_ contenant **un "token" aléatoire et imprévisible** _**\(un nonce\)**_.
 

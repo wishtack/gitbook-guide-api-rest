@@ -12,5 +12,5 @@ Plus concrètement, le format le plus utilisé aujourd’hui est le **JSON** _**
 * contrairement aux technologies backend habituelles, le nombre de librairies et d’outils utilisés est volontairement restreint pour éviter de surcharger les clients JavaScript,
 * on retrouve des outils JSON dans tous les langages,
 * le JSON est facile et rapide _\(au sens performance\)_ à manipuler,
-* le JSON est "human-readable".
+* le JSON est _human-readable_.
 

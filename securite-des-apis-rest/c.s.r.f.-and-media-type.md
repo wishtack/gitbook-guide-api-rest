@@ -2,9 +2,9 @@
 
 
 
-L’une des erreurs classiques est d’accepter des "media types" autres que `application/*json` _\("header" `Content-Type`\)_.
+L’une des erreurs classiques est d’accepter des _media types_ autres que `application/*json` _\(header `Content-Type`\)_.
 
-Sans aucune autre erreur de configuration C.O.R.S., l’acceptation du "media type" `application/x-www-form-urlencoded` permet à l’attaquant de créer un formulaire et de déclencher une simple requête POST.
+Sans aucune autre erreur de configuration C.O.R.S., l’acceptation du _media type_`application/x-www-form-urlencoded` permet à l’attaquant de créer un formulaire et de déclencher une simple requête POST.
 
 ```javascript
 document.querySelector('form').submit()
@@ -55,6 +55,6 @@ Dans ce cas, la plupart des frameworks _\(Ex. : expressjs\)_ récupèrent un obj
 ```
 
 {% hint style="danger" %}
-**La vérification du "media type" des requêtes doit donc être rigoureuse.**
+**La vérification du** _**media type**_ **des requêtes doit donc être rigoureuse.**
 {% endhint %}
 

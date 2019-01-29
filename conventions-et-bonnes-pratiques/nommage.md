@@ -9,7 +9,7 @@
 
 ## Vocabulaire
 
-Utilisez des noms explicites respectant la "métaphore" _\(ou "ubiquitous language"\)_ du service.
+Utilisez des noms explicites respectant la métaphore _\(ou ubiquitous language\)_ du service.
 
 ## URLs
 

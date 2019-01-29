@@ -2,7 +2,7 @@
 
 ![Stop Smurfing APIs](.gitbook/assets/smurf-api.png)
 
-## Copyright {#copyright}
+## Copyright <a id="copyright"></a>
 
 Ce livre est l'oeuvre et la propriété de la société Wishtack.
 

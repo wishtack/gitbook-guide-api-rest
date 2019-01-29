@@ -6,7 +6,7 @@ Comme indiqué précédemment, les principaux objectifs des APIs ReST sont les s
 
 * **Généricité**.
 * **Facilité** d’implémentation et extensibilité.
-* **Performance** et "**scalability**".
+* **Performance** et _**scalability**_.
 
 Le ReST n’est un dogme ou une idéologie et il faut donc rester **pragmatique** tout en préparant l’avenir. **Visionnaire** et non devin. **K.I.S.S.** et **Agile**.
 

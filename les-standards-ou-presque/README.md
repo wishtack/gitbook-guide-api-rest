@@ -1,6 +1,6 @@
 # Les "Standards" ou Presque
 
-Nous constatons que dès la conception d’une simple API ReST, de nombreux choix s’offrent à nous _\(et on se retrouve comme des gamins chez "Toys R Us"\)_.
+Nous constatons que dès la conception d’une simple API ReST, de nombreux choix s’offrent à nous _\(et on se retrouve comme des gamins chez Toys R Us\)_.
 
 Pourquoi ces choix sont-ils si importants ?
 

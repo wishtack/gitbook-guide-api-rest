@@ -1,6 +1,6 @@
 # Base URL
 
-La “base URL” est l’URL de la racine de votre API.
+La _base URL_ est l’URL de la racine de votre API.
 
 Evitez les URLs complexes :
 
