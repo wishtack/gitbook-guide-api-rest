@@ -44,7 +44,7 @@ C’est au client de gérer l’escaping est d’éviter les attaques de type XS
 
 ## **Sanitization**
 
-La “sanitization” est un jeu dangereux qui consiste à retirer le contenu potentiellement malicieux.
+La _sanitization_ est un jeu dangereux qui consiste à retirer le contenu potentiellement malicieux.
 
 Pour l’exemple précédent, cela consisterait à retirer la partie `onerror` :
 
@@ -54,7 +54,7 @@ Pour l’exemple précédent, cela consisterait à retirer la partie `onerror` :
 
 Mais encore une fois, il s’agit d’une problématique client.
 
-La difficulté est qu’il est toujours possible de trouver des techniques pour "bypass" la "sanitization".  
+La difficulté est qu’il est toujours possible de trouver des techniques pour _bypass_ la _sanitization_.  
 Certains en ont fait leur métier 😉  
 [http://n0p.net/penguicon/php\_app\_sec/mirror/xss.html](http://n0p.net/penguicon/php_app_sec/mirror/xss.html)
 

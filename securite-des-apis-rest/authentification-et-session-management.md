@@ -1,6 +1,6 @@
 # Authentification et Session Management
 
-## **De quoi avons nous besoin ?**
+## **De quoi avons-nous besoin ?**
 
 ### **Session management ?**
 
@@ -30,7 +30,7 @@ Il est également possible d’identifier un utilisateur sans l’authentifier m
 
 ### **Logout et révocation**
 
-Le "logout" peut provenir d’une autre source que l’utilisateur final.
+Le _logout_ peut provenir d’une autre source que l’utilisateur final.
 
 {% hint style="danger" %}
 Les "tokens" d’authentification **ne doivent pas être transmis dans l’URL.**  
@@ -38,7 +38,7 @@ Les "tokens" d’authentification **ne doivent pas être transmis dans l’URL.*
 
 L’authentification "basic-auth" ne doit pas être utilisée.
 
-Les "tokens" doivent être transmis dans le "header" `Authorization`
+Les _tokens_ doivent être transmis dans le _header_ `Authorization`
 
 `Authorization: Bearer xxxxxx, Extra yyyyy`
 {% endhint %}
@@ -49,17 +49,17 @@ Nous parcourerons plus tard les différents mécanismes d’authentification env
 
 Globalement _\(modulo quelques étapes\)_, la plupart des mécanismes d’authentification fonctionnent ainsi :
 
-1. Le service d’authentification fournit un "token" unique au client.
-2. Le client transmet ce "token" aux APIs ReST du fournisseur de service.
-3. Le fournisseur de service déduit les autorisations d’accès en fonction de ce "token".
+1. Le service d’authentification fournit un _token_ unique au client.
+2. Le client transmet ce _token_ aux APIs ReST du fournisseur de service.
+3. Le fournisseur de service déduit les autorisations d’accès en fonction de ce _token_.
 
 ## **Session Management côté client**
 
-Le cas le plus complexe est celui où le client est un "browser".
+Le cas le plus complexe est celui où le client est un _browser_.
 
-Si vous souhaitez persister des données dans le "browser" afin que l’utilisateur puisse retrouver le même contexte en changeant de fenêtre ou après un "refresh" :
+Si vous souhaitez persister des données dans le _browser_ afin que l’utilisateur puisse retrouver le même contexte en changeant de fenêtre ou après un _refresh_ :
 
-* Evitez absolument l’utilisation des "cookies" ne serait-ce que pour les raisons suivantes :
+* Evitez absolument l’utilisation des _cookies_ ne serait-ce que pour les raisons suivantes :
   * Ce n’est pas leur rôle.
   * Vous ne voulez pas envoyer toutes ces données au backend à chaque requête.
   * Cookies are EVIL ! 
@@ -67,10 +67,10 @@ Si vous souhaitez persister des données dans le "browser" afin que l’utilisat
 * Problème 😱
 
   * L'**`IndexedDB`** et le **`localStorage`** n’ont pas de notion d’expiration sauf sur Firefox :  [https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory/open](https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory/open).
-  * Jetez un coup d’oeil au contenu de vos storages après "logout" ou fermeture du "browser", vous serez surpris de découvrir ce qu’on y retrouve.
+  * Jetez un coup d’oeil au contenu de vos storages après _logout_ ou fermeture du _browser_, vous serez surpris de découvrir ce qu’on y retrouve.
 
 * Secure Storage
-  * en attendant une solution "in-the-browser", il est recommandé de chiffrer les données stockées localement avec **une clé temporaire et unique pour chaque client transmise par l’API ReST,**
+  * en attendant une solution _in-the-browser_, il est recommandé de chiffrer les données stockées localement avec **une clé temporaire et unique pour chaque client transmise par l’API ReST,**
   * [https://github.com/jas-/crypt.io](https://github.com/jas-/crypt.io),
   * ou encore mieux, en stockant la clé via l'API browser `webauthn` quand celle-ci sera globalement disponible. [https://developers.google.com/web/updates/2018/05/webauthn](https://developers.google.com/web/updates/2018/05/webauthn) 
 
