@@ -7,7 +7,7 @@ Avant d’aborder les aspects sécurité, les tokens JWT utilisés pour l’auth
 * **No key policy.**  JWT ne définit aucune contrainte de sécurité concernant la gestion des clés _\(génération des clés symétriques, rotation des clés etc…\)._ 
 * **HMAC n’est pas un algorithme de signature.** De nombreuses documentations et implémentations utilisent le HMAC pour authentifier les tokens JWT en parlant de signature. 
 * **Pas d’invalidation.** Bien que les tokens JWT peuvent contenir une date d’expiration, JWT ne peut définir aucun moyen pour révoquer ou invalider un token JWT.
-  * Euh… comment gérer le "logout" ?
+  * Euh… comment gérer le _logout_ ?
   * La seule solution possible est de stocker une information quelque part _\(liste des tokens invalidés, heure de logout, etc…\)_
   * Cela nécessite alors de vérifier cette information à chaque présentation d’un token. On perd alors la plus grande partie de l’intérêt de l’utilisation des tokens JWT.
 

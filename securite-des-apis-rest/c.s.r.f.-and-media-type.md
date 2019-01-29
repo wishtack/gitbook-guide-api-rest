@@ -20,7 +20,7 @@ Dans ce cas, la plupart des frameworks _\(Ex. : expressjs\)_ récupèrent un obj
 ```
 
 {% hint style="danger" %}
-**Il ne faut donc activer que le parser JSON.**
+**Il ne faut donc activer que le** _**parser**_ **JSON.**
 {% endhint %}
 
 … mais supposons qu’il soit activé sur tous les "media types" et plus particulièrement `text/plain` pour simplifier la vie des développeurs "client-side".

@@ -10,7 +10,7 @@ _E.g.: L’utilisateur des services google qui souhaite autoriser une applicatio
 
 ### Resource Server
 
-Ce service détient les ressources protégées. Il est capable de répondre aux requêtes d’accès à ces ressources en fonction des "access tokens" présentés.
+Ce service détient les ressources protégées. Il est capable de répondre aux requêtes d’accès à ces ressources en fonction des _access tokens_ présentés.
 
 _E.g. : Google Calendar._
 
@@ -37,7 +37,7 @@ _E.g. : Frontend, Single Page App, Progressive Web App, Mobile, Desktop, Applian
 
 ### **Authorization Server**
 
-Un serveur qui fournit des "access tokens" après authentification du **Resource Owner** et obtention des autorisations.
+Un serveur qui fournit des _access tokens_ après authentification du **Resource Owner** et obtention des autorisations.
 
 _E.g. : Service d’authentification et d’autorisation google. Google accounts._
 
