@@ -44,7 +44,7 @@ Malheureusement, il s’agit d’une vulnérabilité conceptuelle dans le standa
 
 Le paramètre `state` est donc “RECOMMENDED” au lieu d’être “REQUIRED” laissant ainsi le choix au **Client** de rester vulnérable à cette attaque.
 
-Si l'**Authentication Server** rend ce paramètre obligatoire, il n’est alors plus conforme au standard.
+Si l'**Authorization Server** rend ce paramètre obligatoire, il n’est alors plus conforme au standard.
 
 **OpenID Connect** ajoute une notion de **nonce** plus explicite mais pour rester compatible avec OAuth 2, ce paramètre est également optionnel 😭.
 
