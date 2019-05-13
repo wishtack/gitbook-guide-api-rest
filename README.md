@@ -12,5 +12,7 @@ En cas de doute, merci de contacter l'équipe Wishtack : [contact@wishtack.com](
 
 ©Wishtack
 
+
+
 ![](.gitbook/assets/wishtack-logo-with-text.png)
 
