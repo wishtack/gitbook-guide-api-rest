@@ -1,11 +1,18 @@
 # Versioning
 
-Etant donné que les APIs ReST sont conçues pour être utilisées par de multiples sources _\(clients mobiles / web / desktop / partenaires / public…\)_, elles évoluent souvent à un **rythme différent de celui des clients**. Il est donc **nécessaire de les versioner**.
+Etant donné que les APIs ReST sont conçues pour être utilisées par de multiples sources _\(clients mobiles / web / desktop / partenaires / public…\)_, elles évoluent souvent à un **rythme différent de celui des clients**.
 
-Deux approches s’offrent alors à nous :
+Pour s'adapter au changement, il y a trois principales approches :
 
 * Versioning par _Media Type_.
 * Versioning par URL.
+* Pas de versioning _\(la solution à privilégier tant que possible\)_.
+
+[https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7](https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7)
+
+{% embed url="https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7" %}
+
+
 
 ## Versioning par Media Type
 

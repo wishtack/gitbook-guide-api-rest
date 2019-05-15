@@ -31,6 +31,7 @@
   * [So What?](les-standards-ou-presque/so-what.md)
 * [Les Outils](les-outils/README.md)
   * [Swagger](les-outils/swagger.md)
+  * [Restlet](les-outils/restlet.md)
   * [Postman](les-outils/postman.md)
   * [Sandbox](les-outils/sandbox.md)
   * [JSON Generator](les-outils/json-generator.md)

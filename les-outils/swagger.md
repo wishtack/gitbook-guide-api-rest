@@ -8,10 +8,6 @@ Swagger est un framework qui vous permet de définir _\(conformément au standar
 
 [https://swagger.io/tools/swagger-editor/](https://swagger.io/tools/swagger-editor/)
 
-{% embed url="https://swagger.io/tools/swagger-editor/" %}
-
-
-
 
 
 
