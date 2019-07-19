@@ -23,6 +23,7 @@
   * [Ressource d'Association](conventions-et-bonnes-pratiques/ressource-dassociation.md)
   * [Pourquoi Appliquer ces Bonnes Pratiques](conventions-et-bonnes-pratiques/pourquoi-appliquer-ces-bonnes-pratiques.md)
   * [Avis Subjectif sur H.A.T.E.O.A.S. et le Semantic Web](conventions-et-bonnes-pratiques/avis-subjectif-sur-h.a.t.e.o.a.s.-et-le-semantic-web.md)
+  * [Zalando ReSTful API Guidelines](conventions-et-bonnes-pratiques/zalando-restful-api-guidelines.md)
 * [Les "Standards" ou Presque](les-standards-ou-presque/README.md)
   * [JSON API](les-standards-ou-presque/json-api.md)
   * [H.A.L.](les-standards-ou-presque/h.a.l..md)
