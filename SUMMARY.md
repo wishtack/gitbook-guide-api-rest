@@ -33,6 +33,7 @@
 * [Les Outils](les-outils/README.md)
   * [Swagger](les-outils/swagger.md)
   * [Restlet](les-outils/restlet.md)
+  * [OpenAPI GUI](les-outils/openapi-gui.md)
   * [Postman](les-outils/postman.md)
   * [Sandbox](les-outils/sandbox.md)
   * [JSON Generator](les-outils/json-generator.md)
