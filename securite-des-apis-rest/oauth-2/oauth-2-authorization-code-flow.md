@@ -28,7 +28,9 @@ https://www.wishtack.com/oauth?code=AUTHORIZATION_CODE&state=...
 4. Le **Client** peut alors échanger l'**Authorization Code** contre un **Access Token** auprès de l’API OAuth 2 de l'**Authorization Server**.
 
 ```javascript
-POST https://auth.wishtack.com/v1/oauth/token?client_id=CLIENT_ID
+POST https://auth.wishtack.com/v1/oauth/token
+
+client_id=CLIENT_ID
 &client_secret=CLIENT_SECRET
 &grant_type=authorization_code
 &code=AUTHORIZATION_CODE
