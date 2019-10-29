@@ -3,13 +3,15 @@
 ## **Uniforme**
 
 * L’interface est uniforme à tous les niveaux. Tous les éléments _\(et connecteurs\)_ communiquent en utilisant la même interface.
-* Chaque ressource est identifiée de façon unique et canonicalisée avec son URL.
+* Chaque ressource est identifiée de façon unique et canonicalisée avec son URI.
+
+> In order to obtain a uniform interface, multiple architectural constraints are needed to guide the behavior of components. REST is defined by four interface constraints: identification of resources; manipulation of resources through representations; selfdescriptive messages; and, hypermedia as the engine of application state.
 
 ## **Stateless**
 
-* Une API ReST ne doit pas maintenir de session.
+* Une API ReST ne doit pas maintenir de session ou de contexte.
 
-Cela évite entre autres, les problèmes de "load balancing" par exemple.
+> Communication must be stateless in nature..., such that **each request from client to server must contain all of the information necessary to understand the request**, and cannot take advantage of any stored context on the server. Session state is therefore kept entirely on the client. This constraint induces the properties of visibility, reliability, and scalability. **Visibility** is improved because a monitoring system does not have to look beyond a single request datum in order to determine the full nature of the request. **Reliability** is improved because it eases the task of recovering from partial failures. **Scalability** is improved because not having to store state between requests allows the server component to quickly free resources, and further simplifies implementation because the server doesn’t have to manage resource usage across requests.
 
 ## **Cacheable**
 
