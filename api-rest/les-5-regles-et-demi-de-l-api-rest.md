@@ -3,7 +3,7 @@
 ## **Uniforme**
 
 * L’interface est uniforme à tous les niveaux. Tous les éléments _\(et connecteurs\)_ communiquent en utilisant la même interface.
-* Chaque ressource est identifiée de façon unique et canonicalisée avec son URI.
+* Chaque ressource est identifiée de façon unique et canonicalisée avec son URI _\(URL ou URL dont voici deux exemples respectifs_ [_https://www.googleapis.com/books/v1/volumes/-DNcBAAAQBAJ_](https://www.googleapis.com/books/v1/volumes/-DNcBAAAQBAJ) _et urn:isbn:9780134051994\)_.
 
 > In order to obtain a uniform interface, multiple architectural constraints are needed to guide the behavior of components. REST is defined by four interface constraints: identification of resources; manipulation of resources through representations; selfdescriptive messages; and, hypermedia as the engine of application state.
 
