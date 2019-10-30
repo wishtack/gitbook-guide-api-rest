@@ -22,5 +22,11 @@
 
 {% embed url="https://www.docusign.com/blog/if-your-rest-api-is-fine-can-you-get-away-without-having-an-sdk/" %}
 
+### API Versioning Has No Right Way
+
+[https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7](https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7)
+
+{% embed url="https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7" %}
+
 
 
