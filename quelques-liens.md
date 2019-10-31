@@ -4,6 +4,20 @@
 
 [https://github.com/wishtack-training/wt-training-rest-api](https://github.com/wishtack-training/wt-training-rest-api)
 
+### Websheep
+
+[https://github.com/wishtack/websheep](https://github.com/wishtack/websheep)
+
+{% embed url="https://github.com/wishtack/websheep" %}
+
+## Autres ressources
+
+### OWASP API Security Top 10
+
+[https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf](https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf)
+
+{% embed url="https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf" %}
+
 ### Slides et vidéos du meetup sur la sécurité des APIs ReST
 
 [https://blog.wishtack.com/2017/07/28/slides-et-video-des-talks-au-meetup-lyonjs-47/](https://blog.wishtack.com/2017/07/28/slides-et-video-des-talks-au-meetup-lyonjs-47/)
