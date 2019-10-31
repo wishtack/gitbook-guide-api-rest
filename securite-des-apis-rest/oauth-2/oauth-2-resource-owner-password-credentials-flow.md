@@ -5,7 +5,7 @@ Dans les rares cas où le lien de confiance entre le **Resource Owner** et le **
 Le **Client** transmet alors les _credentials_ à l'**Authorization Server** pour obtenir un **Access Token**.
 
 ```javascript
-POST https://auth.wishtack.com/v1/oauth/token?
+POST https://accounts.google.com/token?
 grant_type=password
 &username=...
 &password=...
