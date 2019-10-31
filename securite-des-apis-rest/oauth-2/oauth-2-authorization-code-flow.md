@@ -5,10 +5,11 @@
 1. Le **Client** redirige le **Resource Owner** vers l'**Authorization Server** :
 
 ```javascript
-https://auth.wishtack.com/v1/oauth/authorize?response_type=code
+https://accounts.google.com/o/oauth2/v2/auth?
+response_type=code
 &client_id=CLIENT_ID
-&redirect_uri=https://www.wishtack.com/oauth // optional
-&scope=read
+&redirect_uri=https://cal-tracker.wishtack.io/oauth/callback // optional
+&scope=email,calendar:read
 &state=... // state is recommended thus optional 😢
 ```
 
@@ -22,19 +23,21 @@ https://auth.wishtack.com/v1/oauth/authorize?response_type=code
 3. Le **Client** reçoit l'**Authorization Code** par redirection _\(paramètre `code`\)_ :
 
 ```javascript
-https://www.wishtack.com/oauth?code=AUTHORIZATION_CODE&state=...
+https://cal-tracker.wishtack.io/oauth/callback?
+code=AUTHORIZATION_CODE
+&state=...
 ```
 
 4. Le **Client** peut alors échanger l'**Authorization Code** contre un **Access Token** auprès de l’API OAuth 2 de l'**Authorization Server**.
 
 ```javascript
-POST https://auth.wishtack.com/v1/oauth/token
+POST https://accounts.google.com/token
 
 client_id=CLIENT_ID
 &client_secret=CLIENT_SECRET
 &grant_type=authorization_code
 &code=AUTHORIZATION_CODE
-&redirect_uri=https://www.wishtack.com/oauth
+&redirect_uri=https://cal-tracker.wishtack.io/oauth/callback
 ```
 
 * **`client_secret`** : Secret du **Client** configuré lors de l'enregistrement.
@@ -47,8 +50,8 @@ client_id=CLIENT_ID
     "token_type": "bearer",
     "expires_in": 2592000,
     "refresh_token": "REFRESH_TOKEN",
-    "scope": "read",
-    "wishtack_user_data":{
+    "scope": "email,calendar:read",
+    "some_user_info":{
         "first_name": "John",
         "last_name": "DOE",
         "email": "j.doe@ibm.com",
