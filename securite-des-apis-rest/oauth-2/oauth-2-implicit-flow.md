@@ -10,7 +10,7 @@ Il est inévitable quand le **Client** est public _\(non confidentiel\)._
 
 
 ```javascript
-https://auth.wishtack.com/v1/oauth/authorize?
+https://accounts.google.com/o/oauth2/v2/auth?
 response_type=token
 &client_id=CLIENT_ID
 &redirect_uri=CALLBACK_URL
@@ -23,7 +23,7 @@ response_type=token
 3. L'**Authorization Server** redirige le **Resource Owner** vers le **Client** qui reçoit alors directement l'**Access Token** dans le fragment de l’URL.
 
 ```javascript
-https://www.wishtack.com/callback#
+https://cal-tracker.wishtack.io/oauth/callback#
 access_token=ACCESS_TOKEN
 &token_type=bearer
 &scope=...
