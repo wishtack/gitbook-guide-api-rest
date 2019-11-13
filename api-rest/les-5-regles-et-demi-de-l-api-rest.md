@@ -1,3 +1,7 @@
+---
+description: ou plutôt les 5 contraintes et ½
+---
+
 # Les 5 règles et ½ de l’API ReST
 
 ## **Uniforme**

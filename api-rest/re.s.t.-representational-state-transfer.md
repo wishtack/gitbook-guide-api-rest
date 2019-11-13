@@ -16,7 +16,7 @@
 * On peut distinguer deux principaux types de ressources :
   * les **instances** _\(un utilisateur, un produit etc…\)_,
   * les **collections** _\(une liste d’instances\)_.
-* L’API ReST permet d’**ajouter** / **modifier** / **supprimer** des ressources,
+* L’API ReST permet de **lire / ajouter** / **modifier** / **supprimer** des ressources,
 
 {% hint style="danger" %}
 Contrairement aux APIs SOAP, il faut absolument éviter la logique impérative où on transmet des actions à l’API.
