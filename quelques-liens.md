@@ -6,7 +6,7 @@
 
 ### Websheep
 
-[https://github.com/wishtack/websheep](https://github.com/wishtack/websheep)
+[https://github.com/marmicode/websheep](https://github.com/marmicode/websheep)
 
 {% embed url="https://github.com/wishtack/websheep" %}
 
