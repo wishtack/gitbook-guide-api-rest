@@ -4,11 +4,21 @@
 
 [https://github.com/wishtack-training/wt-training-rest-api](https://github.com/wishtack-training/wt-training-rest-api)
 
+{% embed url="https://github.com/wishtack-training/wt-training-rest-api" %}
+
 ### Websheep
 
 [https://github.com/marmicode/websheep](https://github.com/marmicode/websheep)
 
 {% embed url="https://github.com/wishtack/websheep" %}
+
+### ReST API Checklist
+
+[https://rest-api-checklist.marmicode.io/projects](https://rest-api-checklist.marmicode.io/projects)
+
+{% embed url="https://rest-api-checklist.marmicode.io" %}
+
+
 
 ## Autres ressources
 
