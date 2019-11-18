@@ -50,9 +50,6 @@ GET /carts/123ab
   * L’API est human readable _\(pas besoin d’avoir la documentation en permanence sous les yeux\)_.
   * L’API est facile à étendre _\(ajout de propriétés par exemple\)_.
   * L’API peut répondre facilement à des besoins qui n’ont pas été anticipé _\(modification du nombre de produits dans le panier par exemple\)_.
-* Affordances :
-
-{% embed url="https://youtu.be/NK1Zb\_5VxuM" caption="Affordances" %}
 
 En général, on peut comparer les approches stateful et stateless à la **métaphore de la destination géographique**.
 

@@ -16,6 +16,10 @@ Le "level 3" du modèle de maturité de Richardson _\(ou Web Service Maturity He
 }
 ```
 
+### Affordances
+
+{% embed url="https://youtu.be/NK1Zb\_5VxuM" caption="Affordance" %}
+
 
 
 
