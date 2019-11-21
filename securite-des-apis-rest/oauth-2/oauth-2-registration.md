@@ -11,5 +11,5 @@ Cet enregistrement peut se faire de différentes manières _\(hors spec OAuth 2\
 * L'**Authorization Server** doit à minima obtenir les informations suivantes :
   * **Client type** : **confidential** ou **public**.
   * **Redirect URIs** : La ou les URIs vers lesquelles l'**Authorization Server** redirigera le **Resource Owner** après validation des autorisations.
-* Si le **client type** est **public**, l'**Authorization Server** ne fournira pas de **Client Secret** est peut restreindre l’accès aux ressources.
+* Si le **client type** est **public**, l'**Authorization Server** ne fournira pas de **Client Secret** et peut restreindre l’accès aux ressources.
 
