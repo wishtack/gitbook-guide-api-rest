@@ -36,6 +36,7 @@
   * [OpenAPI GUI](les-outils/openapi-gui.md)
   * [IDE Plugins](les-outils/ide-plugins.md)
   * [Postman](les-outils/postman.md)
+  * [Insomnia](les-outils/insomnia.md)
   * [Sandbox](les-outils/sandbox.md)
   * [JSON Generator](les-outils/json-generator.md)
   * [JSON-Server](les-outils/json-server.md)

@@ -26,11 +26,3 @@ Il peut arriver qu’une ressource de type collection contienne plusieurs ressou
 }
 ```
 
-### Inheritance and Polymorphism with Swagger
-
-[https://swagger.io/docs/specification/data-models/inheritance-and-polymorphism/](https://swagger.io/docs/specification/data-models/inheritance-and-polymorphism/)
-
-{% embed url="https://swagger.io/docs/specification/data-models/inheritance-and-polymorphism/" %}
-
-
-
