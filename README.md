@@ -12,14 +12,13 @@
 
 ## Copyright <a id="copyright"></a>
 
-Ce guide est l'oeuvre et la propriété de Marmicode et la société Wishtack.
+Ce guide est l'oeuvre et la propriété de Marmicode.
 
-Il ne peut être utilisé partiellement ou intégralement comme support de prestations rémunérées sauf par les employés de la société Wishtack.
+Il ne peut être utilisé partiellement ou intégralement comme support de prestations rémunérées sauf par l'équipe Marmicode.
 
-En cas de doute, merci de contacter l'équipe Marmicode / Wishtack : [camijote@marmicode.fr​](mailto:camijote@marmicode.fr​)
+En cas de doute, merci de nous contacter : [camijote@marmicode.fr​](mailto:camijote@marmicode.fr​)
 
-©Marmicode  
-©Wishtack
+©Marmicode
 
 ![](.gitbook/assets/marmicode-fr.png)
 
