@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Le Guide API Rest par Wishtack](README.md)
+* [Le Guide API Rest par Marmicode](README.md)
 * [API ReST](api-rest/README.md)
   * [L'Ecosystème Moderne](api-rest/l-ecosysteme-moderne.md)
   * [Le Besoin](api-rest/le-besoin.md)

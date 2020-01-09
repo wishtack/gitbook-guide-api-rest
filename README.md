@@ -1,4 +1,4 @@
-# Le Guide API Rest par Wishtack
+# Le Guide API Rest par Marmicode
 
 ![Stop Smurfing APIs](.gitbook/assets/smurf-api.png)
 
