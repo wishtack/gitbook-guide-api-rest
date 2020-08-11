@@ -6,7 +6,7 @@
 * Microservices.
 * Serverless.
 * Open Data.
-* Obligations légales _\(e.g. : DSP2\)_.
+* Obligations légales _\(e.g. : PSD2\)_.
 
 
 

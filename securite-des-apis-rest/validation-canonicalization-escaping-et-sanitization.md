@@ -1,4 +1,4 @@
-# Validation : Canonicalization, Escaping & Sanitization
+# Validation, Canonicalization, Escaping & Sanitization
 
 Toutes les propriétés échangées avec l’API ReST doivent être **validées par l’API**.
 

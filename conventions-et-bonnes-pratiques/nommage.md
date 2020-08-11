@@ -5,7 +5,6 @@
 * **kebab-case** pour les URLs.
 * **under\_score** ou **camelCase** pour les paramètres en “query string” et pour les “fields” des ressources.
 * **kebab-case pluriel** pour les noms des ressources dans les URLs.
-  * Je recommande tout de même de convertir les pluriels vers des variables avec un suffixe \`List\`. Dans les URLs, c’est joli mais dans le code c’est trop subtil et ça provoque facilement des conflits.
 
 ## Vocabulaire
 
