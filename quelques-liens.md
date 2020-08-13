@@ -66,5 +66,11 @@
 
 {% embed url="https://en.wikipedia.org/wiki/RSA\_\(cryptosystem\)" %}
 
+### Problem Details for HTTP APIs RFC7807
+
+[https://tools.ietf.org/html/rfc7807](https://tools.ietf.org/html/rfc7807)
+
+{% embed url="https://tools.ietf.org/html/rfc7807" %}
+
 
 
