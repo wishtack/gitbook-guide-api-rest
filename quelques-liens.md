@@ -34,6 +34,14 @@
 
 {% embed url="https://blog.wishtack.com/2017/07/28/slides-et-video-des-talks-au-meetup-lyonjs-47/" %}
 
+### Best Practices in API Governance
+
+[https://swagger.io/resources/articles/best-practices-in-api-governance/](https://swagger.io/resources/articles/best-practices-in-api-governance/)
+
+{% embed url="https://swagger.io/resources/articles/best-practices-in-api-governance/" %}
+
+
+
 ### Code First vs Design First
 
 [https://swagger.io/blog/api-design/design-first-or-code-first-api-development/](https://swagger.io/blog/api-design/design-first-or-code-first-api-development/)
