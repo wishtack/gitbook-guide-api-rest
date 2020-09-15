@@ -60,6 +60,12 @@
 
 {% embed url="https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7" %}
 
+### Stripe API Versioning
+
+[https://stripe.com/blog/api-versioning](https://stripe.com/blog/api-versioning)
+
+{% embed url="https://stripe.com/blog/api-versioning" %}
+
 ### How RSA works
 
 [https://en.wikipedia.org/wiki/RSA\_\(cryptosystem\)](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)
