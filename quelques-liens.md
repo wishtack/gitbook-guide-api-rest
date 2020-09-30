@@ -34,13 +34,25 @@
 
 {% embed url="https://blog.wishtack.com/2017/07/28/slides-et-video-des-talks-au-meetup-lyonjs-47/" %}
 
+## Blog Posts & Videos
+
+### Microservice Prerequisites
+
+[https://martinfowler.com/bliki/MicroservicePrerequisites.html](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
+
+{% embed url="https://martinfowler.com/bliki/MicroservicePrerequisites.html" %}
+
+### From Monolith to Microservices at Zalando
+
+[https://www.youtube.com/watch?v=gEeHZwjwehs](https://www.youtube.com/watch?v=gEeHZwjwehs)
+
+{% embed url="https://www.youtube.com/watch?v=gEeHZwjwehs" %}
+
 ### Best Practices in API Governance
 
 [https://swagger.io/resources/articles/best-practices-in-api-governance/](https://swagger.io/resources/articles/best-practices-in-api-governance/)
 
 {% embed url="https://swagger.io/resources/articles/best-practices-in-api-governance/" %}
-
-
 
 ### Code First vs Design First
 
