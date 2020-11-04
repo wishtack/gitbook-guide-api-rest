@@ -15,7 +15,7 @@ response_type=code
 
 * **`client_id`** : ID unique du **Client**.
 * **`redirect_uri`** : Une des URLs de retour parmi la liste transmise à l'**Authorization Server** à l'enregistrement. Si le paramètre est absent, l'**Authorization Server** utilisera la valeur par défaut configurée lors de l'enregistrement.
-* **`scope`** : ID unique du Client.
+* **`scope`** : liste des autorisations demandées.
 * **`state`** : Paramètre malheureusement optionnel permettant au **Client** de retrouver le contexte d'initiation de la demande. Il sert surtout à transmettre un "nonce" _\(token aléatoire\)_ pour des raisons de sécurité. 
 
 2. Le **Resource Owner** confirme ou rejette les autorisations d’accès demandées sur l’interface proposée par l'**Authorization Server**.
