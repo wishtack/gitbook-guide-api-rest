@@ -26,7 +26,7 @@
   * [Zalando ReSTful API Guidelines](conventions-et-bonnes-pratiques/zalando-restful-api-guidelines.md)
 * [Les Outils](les-outils/README.md)
   * [Swagger](les-outils/swagger.md)
-  * [Restlet](les-outils/restlet.md)
+  * [Apibldr](les-outils/restlet.md)
   * [OpenAPI GUI](les-outils/openapi-gui.md)
   * [IDE Plugins](les-outils/ide-plugins.md)
   * [Postman](les-outils/postman.md)

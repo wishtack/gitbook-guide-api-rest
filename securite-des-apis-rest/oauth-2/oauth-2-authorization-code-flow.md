@@ -16,11 +16,9 @@ response_type=code
 * **`client_id`** : ID unique du **Client**.
 * **`redirect_uri`** : Une des URLs de retour parmi la liste transmise à l'**Authorization Server** à l'enregistrement. Si le paramètre est absent, l'**Authorization Server** utilisera la valeur par défaut configurée lors de l'enregistrement.
 * **`scope`** : liste des autorisations demandées.
-* **`state`** : Paramètre malheureusement optionnel permettant au **Client** de retrouver le contexte d'initiation de la demande. Il sert surtout à transmettre un "nonce" _\(token aléatoire\)_ pour des raisons de sécurité. 
-
-2. Le **Resource Owner** confirme ou rejette les autorisations d’accès demandées sur l’interface proposée par l'**Authorization Server**.
-
-3. Le **Client** reçoit l'**Authorization Code** par redirection _\(paramètre `code`\)_ :
+* **`state`** : Paramètre malheureusement optionnel permettant au **Client** de retrouver le contexte d'initiation de la demande. Il sert surtout à transmettre un "nonce" _\(token aléatoire\)_ pour des raisons de sécurité.
+* Le **Resource Owner** confirme ou rejette les autorisations d’accès demandées sur l’interface proposée par l'**Authorization Server**.
+* Le **Client** reçoit l'**Authorization Code** par redirection _\(paramètre `code`\)_ :
 
 ```javascript
 https://cal-tracker.wishtack.io/oauth/callback?
@@ -28,7 +26,7 @@ code=AUTHORIZATION_CODE
 &state=...
 ```
 
-4. Le **Client** peut alors échanger l'**Authorization Code** contre un **Access Token** auprès de l’API OAuth 2 de l'**Authorization Server**.
+1. Le **Client** peut alors échanger l'**Authorization Code** contre un **Access Token** auprès de l’API OAuth 2 de l'**Authorization Server**.
 
 ```javascript
 POST https://accounts.google.com/token
@@ -41,8 +39,7 @@ client_id=CLIENT_ID
 ```
 
 * **`client_secret`** : Secret du **Client** configuré lors de l'enregistrement.
-
-5. En cas de succès, le **Client** reçoit alors l'**Access Token** et un **Refresh Token** optionnel :
+* En cas de succès, le **Client** reçoit alors l'**Access Token** et un **Refresh Token** optionnel :
 
 ```javascript
 {
