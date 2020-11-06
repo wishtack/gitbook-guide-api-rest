@@ -9,8 +9,28 @@ Etant donné que la rotation doit avoir une durée plus longue que la durée de 
 
 Pour réduire les risques, utilisez de nombreuses clés.
 
-Idéalement, les clés secrètes ne devraient être manipulées que par des services dédiés hautement sécurisés avec des mécanismes de monitoring avancés.  
-Cf. [https://www.vaultproject.io/](https://www.vaultproject.io/)
+Idéalement, les clés secrètes ne devraient être manipulées que par des services dédiés hautement sécurisés avec des mécanismes de monitoring avancés type HSM \(Hardware Security Module\) ou KMS \(Key Management Service\).
+
+### Azure / AWS / GCP KMS
+
+{% embed url="https://azure.microsoft.com/en-us/services/key-vault/" %}
+
+{% embed url="https://aws.amazon.com/kms/" %}
+
+{% embed url="https://cloud.google.com/security-key-management" %}
+
+### Exemple d'utilisation NodeJS / AWS
+
+{% embed url="https://github.com/jonathankeebler/jwt-kms" %}
+
+### Hashicorp's Vault Transit keys
+
+_...et non pas en simple KV Secret Engine_
+
+[https://www.vaultproject.io/api/secret/transit\#sign-data](https://www.vaultproject.io/api/secret/transit#sign-data)  
+
+
+### JWT comme mécanisme complémentaire
 
 Les tokens JWT peuvent être utilisés comme **mécanisme complémentaire** d’un mécanisme de token classique. On peut wrapper des tokens dans un token JWT afin de vérifier rapidement leur validité et leur expiration avant de le vérifier auprès d’une base de données ou d’un tiers.
 
