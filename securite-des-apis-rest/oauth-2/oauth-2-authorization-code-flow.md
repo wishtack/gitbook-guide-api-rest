@@ -9,7 +9,7 @@ https://accounts.google.com/o/oauth2/v2/auth?
 response_type=code
 &client_id=CLIENT_ID
 &redirect_uri=https://cal-tracker.wishtack.io/oauth/callback // optional
-&scope=email,calendar:read
+&scope=email%20calendar:read
 &state=... // state is recommended thus optional 😢
 ```
 
