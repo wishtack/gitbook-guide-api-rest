@@ -84,6 +84,12 @@
 
 {% embed url="https://stripe.com/blog/api-versioning" %}
 
+### The Difference Between API Gateways and Service Mesh
+
+[https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/](https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/)
+
+{% embed url="https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/" %}
+
 ### How RSA works
 
 [https://en.wikipedia.org/wiki/RSA\_\(cryptosystem\)](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)
