@@ -28,6 +28,7 @@
   * [Swagger](les-outils/swagger.md)
   * [Apibldr](les-outils/restlet.md)
   * [OpenAPI GUI](les-outils/openapi-gui.md)
+  * [Spotlight Studio](les-outils/spotlight-studio.md)
   * [IDE Plugins](les-outils/ide-plugins.md)
   * [Postman](les-outils/postman.md)
   * [Insomnia](les-outils/insomnia.md)
