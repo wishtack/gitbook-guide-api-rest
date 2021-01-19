@@ -36,11 +36,19 @@
 
 ## Blog Posts & Videos
 
-### Microservice Prerequisites
+### Microservice Prerequisites by Martin Fowler
 
 [https://martinfowler.com/bliki/MicroservicePrerequisites.html](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
 
 {% embed url="https://martinfowler.com/bliki/MicroservicePrerequisites.html" %}
+
+### Mastering Chaos - A Netflix Guide to Microservices
+
+[https://www.youtube.com/watch?v=CZ3wIuvmHeM](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+
+{% embed url="https://www.youtube.com/watch?v=CZ3wIuvmHeM" %}
+
+
 
 ### From Monolith to Microservices at Zalando
 
