@@ -48,6 +48,14 @@
 
 {% embed url="https://www.youtube.com/watch?v=gEeHZwjwehs" %}
 
+### ReST APIs Must Be Hypertext-Driven by Roy T. Fielding
+
+[https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+
+{% embed url="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" %}
+
+
+
 ### Best Practices in API Governance
 
 [https://swagger.io/resources/articles/best-practices-in-api-governance/](https://swagger.io/resources/articles/best-practices-in-api-governance/)
