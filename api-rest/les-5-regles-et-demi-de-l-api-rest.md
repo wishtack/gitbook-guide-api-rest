@@ -4,6 +4,8 @@ description: ou plutôt les 5 contraintes et ½
 
 # Les 5 règles et ½ de l’API ReST
 
+> REST provides a set of architectural constraints that, when applied as a whole, emphasizes scalability of component interactions, generality of interfaces, independent deployment of components, and intermediary components to reduce interaction latency, enforce security, and encapsulate legacy systems.
+
 ## **Separation of Concerns** _**\(Client / Server\)**_
 
 * L’API ReST n’est pas concernée par l’affichage, les interactions utilisateur et la session.

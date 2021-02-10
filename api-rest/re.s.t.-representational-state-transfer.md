@@ -3,22 +3,15 @@
 ## **Ce qu’une API ReST n’est pas**
 
 * ReST n’est pas un standard mais un **style d’architecture**.
-* ReST ne concerne pas uniquement les APIs distantes ou HTTP. Une librairie peut être ReSTful.
 
 ## **Roy Thomas FIELDING : Papa du ReST**
 
-* L’origine des API ReST date de l’année 2000.
-* [https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding\_dissertation.pdf](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
+* L’origine du style ReST date des années 90. Ce style d'architecture a servi à définir les standards HTTP et URI.
+* Cf. [Architectural Styles and the Design of Network-based Software Architectures by Roy Thomas FIELDING](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
 
 ## Description du ReST
 
-* Une API ReST est **une interface abstraite du modèle de données** qu’on appelle **ressources**.
-* On peut distinguer deux principaux types de ressources :
-  * les **instances** _\(un utilisateur, un produit etc…\)_,
-  * les **collections** _\(une liste d’instances\)_.
-* L’API ReST permet de **lire / ajouter** / **modifier** / **supprimer** des ressources,
+Le style d'architecture ReST impose 5 contraintes, définies dans le chapitre suivants, qui permettent de définir des systèmes hypermedia distribués.
 
-{% hint style="danger" %}
-Contrairement aux APIs SOAP, il faut absolument éviter la logique impérative où on transmet des actions à l’API.
-{% endhint %}
+> The name “Representational State Transfer” is intended to evoke an image of how a well-designed Web application behaves: a network of web pages \(a virtual state-machine\), where the user progresses through the application by selecting links \(state transitions\), resulting in the next page \(representing the next state of the application\) being transferred to the user and rendered for their use
 
