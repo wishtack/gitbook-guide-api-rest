@@ -2,22 +2,20 @@
 
 
 
-Comme indiqué précédemment, les principaux objectifs des APIs ReST sont les suivants :
+Comme indiqué précédemment, les principaux objectifs des APIs sont les suivants :
 
 * **Généricité**.
 * **Facilité** d’implémentation et extensibilité.
 * **Performance** et _**scalability**_.
 
-Le ReST n’est un dogme ou une idéologie et il faut donc rester **pragmatique** tout en préparant l’avenir. **Visionnaire** et non devin. **K.I.S.S.** et **Agile**.
+Le ReST n’est un dogme ou une idéologie et il faut donc rester **pragmatique** tout en préparant l’avenir. **Visionnaire** et non devin. **K.I.S.S.** et **Agile**. Rien ne vous oblige à implémenter une API ReSTful.
 
-Evitez donc les forces obscures qui tentent d’appliquer des paradigmes complexes datant de l’âge de l’XML ! _\(ils sont également soupçonnés d’indenter à 2 espaces et de retirer les “;” en JavaScript…\)_
-
-Exemple : [https://github.com/kevinswiber/siren](https://github.com/kevinswiber/siren).
+Exemple de spécification ReSTful : [https://github.com/kevinswiber/siren](https://github.com/kevinswiber/siren).
 
 {% hint style="warning" %}
 **Ne soyez pas ReSTafarians !** Le but initial est de répondre aux besoins associés à la **User eXperience** et la **Developer eXperience**.
 
-On ne cherche pas à être plus ReST que les autres.
+On ne cherche pas à être ReST ou plus ReST que les autres.
 {% endhint %}
 
 

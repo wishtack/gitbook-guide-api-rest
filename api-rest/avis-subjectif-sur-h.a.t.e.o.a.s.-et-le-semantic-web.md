@@ -1,11 +1,5 @@
 # Avis Subjectif sur H.A.T.E.O.A.S. et le Semantic Web
 
-
-
-C’est tout beau…
-
-…mais comment cela s’intègre dans la pratique ?
-
 Supposons que nous disposions des objets et méthodes suivantes :
 
 ```javascript
@@ -56,13 +50,11 @@ Que faire en cas d’incohérence ?
   * Mapping `type` =&gt; informations sur la construction de l’URL _\(Base URL  et Path\)_.
   * Affordances : que puis-je faire avec la ressource ? A quoi correspond-elle ?
 
-C’est tout simplement l’utopie _\(ou le futur ?\)_ du Web Sémantique. **Cela nécessite des standards de canonicalisation des données et une adoption importante.**
+C’est tout simplement l’utopie du Web Sémantique, parfaitement adaptée à des ressources génériques mais à peu d'applications. **Cela nécessite des standards de canonicalisation des données et une adoption importante.**
 
-Pour le moment, on ne trouve que quelques tentatives qui ressemblent plus à de l’**HTMLisation du ReST** et on y retrouve des noms familiers : **Richardson**, **Amundsen** et **Foster**.
+\*\*\*\*
 
 Application-Level Profile Semantics : [http://alps.io/spec/drafts/draft-01.html](http://alps.io/spec/drafts/draft-01.html)
-
-Intéressant mais assez loin des conventions ReST et du pragmatisme qui nous intéresse.
 
 ![Alps](../.gitbook/assets/alps-1.png)
 
