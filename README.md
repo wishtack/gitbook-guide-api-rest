@@ -1,10 +1,10 @@
-# Le Guide API Rest par Marmicode
+# Le Guide API ReST par Marmicode
 
 ![Stop Smurfing APIs](.gitbook/assets/smurf-api.png)
 
 ## Nos objectifs <a id="nos-objectifs"></a>
 
-* Produire **rapidement** des APIs ReST **performantes**, **robustes** et **maintenables**.
+* Produire **rapidement** des APIs **performantes**, **robustes** et **maintenables**.
 * Privilégier le **pragmatisme** et mettre l'accent sur les **bonnes pratiques**.
 * Partager le fruit de nos heures de **veille**, de **recherche** et de nos **retours d'expérience**.
 * Produire un **guide** **gratuit**, **à jour** et **communautaire.**
