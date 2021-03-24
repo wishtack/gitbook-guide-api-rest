@@ -56,13 +56,19 @@
 
 {% embed url="https://www.youtube.com/watch?v=gEeHZwjwehs" %}
 
+### ReST vs. GraphQL vs. gRPC Decision Tree
+
+[https://phil.tech/2018/picking-an-api-paradigm-implementation/](https://phil.tech/2018/picking-an-api-paradigm-implementation/)
+
+{% embed url="https://phil.tech/2018/picking-an-api-paradigm-implementation/" %}
+
+
+
 ### ReST APIs Must Be Hypertext-Driven by Roy T. Fielding
 
 [https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 
 {% embed url="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" %}
-
-
 
 ### Best Practices in API Governance
 
